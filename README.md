@@ -20,10 +20,15 @@ channel 5 in the channel chopper is actually controlled by channel 4. the idea b
 
 ## Serial Format
 This is done through the USB cable. Basic serial comunication at 9600. The format is as follows
+
 `shock¬"channel"¬"state"`
+
 There are 4 channels and the states are either `1` for on or `0` for off. So if we wanted to turn channel 2 on we would send
+
 `shock¬2¬1`
+
 and if we wanted to turn channel 2 off it would be 
+
 `shock¬2¬0`
 
 ## why is there another serial connection linked to a 3.5mm jack
