@@ -42,10 +42,11 @@ this hasn't been implemented in software yet, but I put this there in case I wan
 ## Thankyou's 
 I need to say thanks to both Georgexx and Onwrikbaar as they showed me the light with the MOC3023's
 
-## Discord
+## Links
 [Discord](https://discord.gg/6kjEPdq)
 
-### If you like what we do and want to support us then please consider the following options
+If you like what we do and want to support us then please consider the following options
+
 [Patreon](https://www.patreon.com/deviantdesigns)
 
 [Ko-Fi - if you'd rather a one off donation](https://www.Ko-fi.com/deviantdesigns)
