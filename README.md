@@ -37,6 +37,6 @@ this hasn't been implemented in software yet, but I put this there in case I wan
 ### If you like what we do and want to support us then please consider the following options
 [Patreon](https://www.patreon.com/deviantdesigns)
 
-[Ko-Fi - if you'd rather a one off donation](Ko-fi.com/deviantdesigns)
+[Ko-Fi - if you'd rather a one off donation](https://www.Ko-fi.com/deviantdesigns)
 
 [Twitter - sharing our work helps lots too if you can't afford to support financially](https://twitter.com/_DeviantDesigns)
