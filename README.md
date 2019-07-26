@@ -3,8 +3,6 @@ A Fire button for any estim device. Perfect for BDSM play
 
 ## Quick Disclaimer
 I am neither an electrical engineer or a software developer. I made this for fun. There are probably many many flaws in this. But that being said, it works and works well for what I want. I don't mind constructive critiscm at all (actually I'll be greatful for it) but please be nice with it. It sucks when you put lots of effort into something and people just hammer it for its flaws :)
-Fire buttons for e-stim devices
-
 
 ## What is it
 this is a inline controller to turn on and off estim signals. You attach it between the estim unit and the bipolar electrode. it has 4 buttons on it which when depressed allow the estim signals to passthrough to the electrodes. It also works via serial comunication so you can link it up to other equipment if you wish. 
