@@ -39,6 +39,12 @@ and if we wanted to turn channel 2 off it would be
 ## why is there another serial connection linked to a 3.5mm jack
 this hasn't been implemented in software yet, but I put this there in case I wanted to setup software serial to control the box from another arduino. or maybe use this box to trigger other devices. The tip is connected to pin A1 and the ring to A0
 
+## Thankyou's 
+I need to say thanks to both Georgexx and Onwrikbaar as they showed me the light with the MOC3023's
+
+## Discord
+[Discord](https://discord.gg/6kjEPdq)
+
 ### If you like what we do and want to support us then please consider the following options
 [Patreon](https://www.patreon.com/deviantdesigns)
 
