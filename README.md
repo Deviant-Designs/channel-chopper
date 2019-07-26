@@ -12,10 +12,15 @@ channel 5 in the channel chopper is actually controlled by channel 4. the idea b
 
 ## BOM
 11 - 3.5mm Panel Mount Stereo Jacks
+
 10 - MOC 3023
+
 1 - pro Micro
+
 14 - 220Ω Resistors
+
 4 - 5mm LEDS
+
 4 - Buttons/swtiches
 
 ## Serial Format
