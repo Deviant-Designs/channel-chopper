@@ -15,7 +15,7 @@ channel 5 in the channel chopper is actually controlled by channel 4. the idea b
 
 10 - MOC 3023
 
-1 - pro Micro
+1 - Arduino Pro Micro (it has to be micro not mini for this PCB)
 
 14 - 220Ω Resistors
 
